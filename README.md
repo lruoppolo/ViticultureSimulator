@@ -12,7 +12,7 @@ Questo progetto simula dati ambientali, produttivi ed economici per un vigneto e
 
 ## Prerequisiti
 
--   Python 3.8 o superiore
+-   Testato e funzionante su Python 3.13.0
 
 ## Installazione
 
@@ -45,3 +45,4 @@ Per utilizzare l'applicazione, segui questi due passaggi:
     python dashboard.py
     ```
     Apri il browser e vai all'indirizzo `http://127.0.0.1:8050/` per vedere la dashboard.
+
